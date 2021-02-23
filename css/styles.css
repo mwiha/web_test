@@ -26,12 +26,11 @@ ul li a:hover{
 }
 .header p{
     display: inline-block;
-    /* text-align: center; */
-    color: black;
+    color: black; */
     font-size: 100px;
-    font-family: 'Nosifer', cursive;
+    font-family : 'Nosifer', cursive;
 }
 #gallery{
     background-color:orange;
     padding: 20px;
-}
+} 
