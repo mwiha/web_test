@@ -160,5 +160,25 @@
           </div>
         </div>
       </section>
+      <div class="contacts">
+        <h2 class=" text-center">Contact Us</h2>
+        <form onsubmit="return validationForm()" class="form">
+            <div class="row">
+                <div class="col-6">
+                    <input type="text" class="form-control" placeholder="Name" id="name">
+                </div>
+                <div class="col-6">
+                    <input type="email" class="form-control" placeholder="Email" id="email">
+                </div>
+            </div>
+            <div class="col-sm-12" id="text">
+                <textarea type="text" class="form-control mt-5" placeholder="Your Message here..." id="message"
+                    cols="13" rows="8"></textarea>
+            </div>
+            <div>
+                <button type="submit" class="btn btn-primary" id="submit">Submit</button>
+            </div>
+        </form>
+    </div>
 </body>
 </html>

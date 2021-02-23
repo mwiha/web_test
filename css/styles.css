@@ -68,3 +68,10 @@ ul li a:hover{
   .btn-submit:hover {
     background-color: #090909 !important;
   }
+  form{
+    width: 50%;
+    margin: 0 auto;
+}
+.contacts{ background: url("https://bit.ly/3aMibok")no-repeat center center/cover;
+    height: 60vh;
+    color: #fff;}
