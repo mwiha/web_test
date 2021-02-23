@@ -34,3 +34,6 @@ ul li a:hover{
     background-color:purple;
     padding: 20px;
 } 
+.about p{
+    width: 100%;
+} 
